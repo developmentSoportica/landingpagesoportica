@@ -126,16 +126,16 @@ var Tawk_API = Tawk_API || {},
 // consume api of backend{
 
 
-const privateKey = '',
-    publicKey = '',
-    content = document.getElementById('content');
+// const privateKey = '',
+//     publicKey = '',
+//     content = document.getElementById('content');
 
-    const getConnection = () =>{
-        const ts = Date.now(),
-            URL = '';
-            fetch(URL).then(response => console.log(response));
-    }
+//     const getConnection = () =>{
+//         const ts = Date.now(),
+//             URL = '';
+//             fetch(URL).then(response => console.log(response));
+//     }
 
-    getConnection();
+//     getConnection();
 
 
