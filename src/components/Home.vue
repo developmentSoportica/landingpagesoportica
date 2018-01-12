@@ -235,13 +235,13 @@
             <form action="" id="" method="" class="form-new">
                 <div class="div-inputs">
                     <div class="group">      
-                        <input type="text" required class="input-new">
+                        <input type="text" required class="input-new" name="name">
                         <span class="highlight"></span>
                         <span class="bar"></span>
                         <label>Nombre</label>
                     </div>
                     <div class="group">      
-                        <input type="text" required class="input-new">
+                        <input type="email" required class="input-new" name="email">
                         <span class="highlight"></span>
                         <span class="bar"></span>
                         <label>Email</label>
